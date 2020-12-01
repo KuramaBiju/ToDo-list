@@ -1,4 +1,7 @@
-# todo-vue
+# ToDo-list-vue
+
+### Proyecto
+Este es un proyecto de prueba, utilizando vue 3 y sus nuevas implementaciones mediante un sistema ToDo de tareas, también utilizando localStorage
 
 ## Project setup
 ```
